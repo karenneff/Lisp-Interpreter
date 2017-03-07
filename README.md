@@ -9,3 +9,7 @@ the documentation file.
 Local variables and user-defined functions are not supported at this time.
 
 This program was developed on JGrasp with a MinGW compiler.
+
+This program and its documentation are available as examples of my work
+and are intended to be used for informational purposes only. Please do not
+copy or use this code for any other purpose without my permission.
